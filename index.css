@@ -1,0 +1,15 @@
+form {
+    padding-left:30px;
+}
+
+.table
+{
+    background-color:lightpink;
+}
+form
+{
+    background-color: lightgray;
+}
+h1,p{
+    text-align: center;
+}
